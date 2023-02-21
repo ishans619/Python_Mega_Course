@@ -1,0 +1,3 @@
+6
+
+The day went well but I still have to learn how to break the message in several lines so that it's readable without scrolling the window.

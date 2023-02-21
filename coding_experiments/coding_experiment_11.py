@@ -1,0 +1,5 @@
+file = open('../essay.txt', 'r')
+essay = file.read()
+nr_char = len(essay)
+print(essay.title(),"\n",nr_char)
+file.close()
